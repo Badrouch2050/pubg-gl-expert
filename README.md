@@ -4,7 +4,7 @@ Keep the **old GameLoop** for PUBG Mobile, without forced updates or the switch 
 An 8-step wizard installs the old GameLoop, sets up protections, locks updates and startup launch, tunes PUBG's display and launches the game.
 
 **Website / Guide (FR · EN · AR):** https://badrouch2050.github.io/pubg-gl-expert/
-**Download:** [latest release](https://github.com/Badrouch2050/pubg-gl-expert/releases/latest)
+**Download:** [PUBG-GL-Expert-v4.1.zip](download/PUBG-GL-Expert-v4.1.zip)
 **Contact:** [Discord](https://discord.gg/qVRBMt74h)
 
 Developed by **TNL YORYO**.
@@ -13,13 +13,13 @@ Developed by **TNL YORYO**.
 
 ## Français
 Gardez l'ancien GameLoop pour PUBG Mobile, sans mises à jour forcées ni passage à GameLoop 7.
-1. Téléchargez le zip depuis la [dernière version](https://github.com/Badrouch2050/pubg-gl-expert/releases/latest) et extrayez-le.
+1. Téléchargez le zip depuis [download/PUBG-GL-Expert-v4.1.zip](download/PUBG-GL-Expert-v4.1.zip) et extrayez-le.
 2. Lancez « PUBG GL Expert.exe » et acceptez la demande administrateur.
 3. Suivez l'assistant en 8 étapes. Ne redémarrez pas avant l'étape 5 « Verrouillage final ».
 
 ## العربية
 احتفظ بـ GameLoop القديم للعبة PUBG Mobile بدون تحديثات إجبارية أو انتقال إلى GameLoop 7.
-1. حمّل ملف zip من [آخر إصدار](https://github.com/Badrouch2050/pubg-gl-expert/releases/latest) واستخرجه.
+1. حمّل ملف zip من [download/PUBG-GL-Expert-v4.1.zip](download/PUBG-GL-Expert-v4.1.zip) واستخرجه.
 2. شغّل «PUBG GL Expert.exe» ووافق على طلب صلاحيات المسؤول.
 3. اتبع المساعد المكون من 8 خطوات. لا تعد تشغيل الكمبيوتر قبل الخطوة 5 «القفل النهائي».
 
